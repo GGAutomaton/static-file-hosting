@@ -1,2 +1,6 @@
-update.py
 tmp
+update.py
+genMD5.py
+md5.json
+genConfig.py
+replace.conf
